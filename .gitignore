@@ -1,1 +1,6 @@
-./main
+/9cc
+tmp
+tmp.*
+*.o
+*~
+a.out
